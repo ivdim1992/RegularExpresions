@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchPhonNumber\bin\Debug\MatchPhonNumber.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchPhonNumber\bin\Debug\MatchPhonNumber.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchPhonNumber\bin\Debug\MatchPhonNumber.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchPhonNumber\obj\Debug\MatchPhonNumber.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchPhonNumber\obj\Debug\MatchPhonNumber.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchPhonNumber\obj\Debug\MatchPhonNumber.pdb

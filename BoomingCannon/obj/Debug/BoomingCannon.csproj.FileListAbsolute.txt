@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\BoomingCannon\bin\Debug\BoomingCannon.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\BoomingCannon\bin\Debug\BoomingCannon.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\BoomingCannon\bin\Debug\BoomingCannon.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\BoomingCannon\obj\Debug\BoomingCannon.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\BoomingCannon\obj\Debug\BoomingCannon.pdb

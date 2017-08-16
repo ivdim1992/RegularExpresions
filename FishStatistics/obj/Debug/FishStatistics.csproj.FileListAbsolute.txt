@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\FishStatistics\bin\Debug\FishStatistics.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\FishStatistics\bin\Debug\FishStatistics.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\FishStatistics\bin\Debug\FishStatistics.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\FishStatistics\obj\Debug\FishStatistics.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\FishStatistics\obj\Debug\FishStatistics.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\FishStatistics\obj\Debug\FishStatistics.pdb

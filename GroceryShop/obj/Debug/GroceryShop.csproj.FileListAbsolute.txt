@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\GroceryShop\bin\Debug\GroceryShop.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\GroceryShop\bin\Debug\GroceryShop.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\GroceryShop\bin\Debug\GroceryShop.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\GroceryShop\obj\Debug\GroceryShop.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\GroceryShop\obj\Debug\GroceryShop.pdb

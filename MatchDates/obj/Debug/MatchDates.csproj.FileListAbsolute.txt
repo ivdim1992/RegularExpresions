@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchDates\bin\Debug\MatchDates.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchDates\bin\Debug\MatchDates.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchDates\bin\Debug\MatchDates.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchDates\obj\Debug\MatchDates.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchDates\obj\Debug\MatchDates.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchDates\obj\Debug\MatchDates.pdb

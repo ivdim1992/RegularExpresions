@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\WordEncounter\bin\Debug\WordEncounter.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\WordEncounter\bin\Debug\WordEncounter.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\WordEncounter\bin\Debug\WordEncounter.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\WordEncounter\obj\Debug\WordEncounter.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\WordEncounter\obj\Debug\WordEncounter.pdb

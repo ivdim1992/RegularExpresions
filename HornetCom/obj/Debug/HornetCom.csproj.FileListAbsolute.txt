@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\HornetCom\bin\Debug\HornetCom.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\HornetCom\bin\Debug\HornetCom.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\HornetCom\bin\Debug\HornetCom.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\HornetCom\obj\Debug\HornetCom.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\HornetCom\obj\Debug\HornetCom.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\HornetCom\obj\Debug\HornetCom.pdb

@@ -1,0 +1,6 @@
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\Commits\bin\Debug\Commits.exe.config
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\Commits\bin\Debug\Commits.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\Commits\bin\Debug\Commits.pdb
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\Commits\obj\Debug\Commits.csprojResolveAssemblyReference.cache
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\Commits\obj\Debug\Commits.exe
+C:\Users\Ivaylo\documents\visual studio 2017\Projects\Regular Expressions\Commits\obj\Debug\Commits.pdb

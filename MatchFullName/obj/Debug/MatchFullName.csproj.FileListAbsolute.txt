@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchFullName\bin\Debug\MatchFullName.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchFullName\bin\Debug\MatchFullName.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchFullName\bin\Debug\MatchFullName.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchFullName\obj\Debug\MatchFullName.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchFullName\obj\Debug\MatchFullName.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchFullName\obj\Debug\MatchFullName.pdb

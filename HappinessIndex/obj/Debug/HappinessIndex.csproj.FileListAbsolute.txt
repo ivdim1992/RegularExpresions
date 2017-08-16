@@ -1,0 +1,5 @@
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\HappinessIndex\bin\Debug\HappinessIndex.exe.config
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\HappinessIndex\bin\Debug\HappinessIndex.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\HappinessIndex\bin\Debug\HappinessIndex.pdb
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\HappinessIndex\obj\Debug\HappinessIndex.exe
+C:\Users\Ivaylo\Documents\Visual Studio 2017\Projects\Regular Expressions\HappinessIndex\obj\Debug\HappinessIndex.pdb

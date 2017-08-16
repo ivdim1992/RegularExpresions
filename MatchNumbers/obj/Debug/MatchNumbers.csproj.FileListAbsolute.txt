@@ -1,0 +1,6 @@
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchNumbers\bin\Debug\MatchNumbers.exe.config
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchNumbers\bin\Debug\MatchNumbers.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchNumbers\bin\Debug\MatchNumbers.pdb
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchNumbers\obj\Debug\MatchNumbers.csprojResolveAssemblyReference.cache
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchNumbers\obj\Debug\MatchNumbers.exe
+c:\users\ivaylo\documents\visual studio 2017\Projects\Regular Expressions\MatchNumbers\obj\Debug\MatchNumbers.pdb
